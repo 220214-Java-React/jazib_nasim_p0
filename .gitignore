@@ -1,9 +1,9 @@
 # Compiled class file
 *.class
-*idea
+idea
 *.git
-*out
-*.gradle
+out
+.gradle
 
 # Log file
 *.log
