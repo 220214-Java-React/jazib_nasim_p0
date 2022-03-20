@@ -3,7 +3,8 @@
 .idea/
 *.git
 out/
-.gradle
+.gradle/
+.DS_Store
 
 # Log file
 *.log
