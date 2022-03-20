@@ -1,8 +1,8 @@
 # Compiled class file
 *.class
-idea
+.idea/
 *.git
-out
+out/
 .gradle
 
 # Log file
